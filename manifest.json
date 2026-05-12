@@ -1,0 +1,27 @@
+{
+  "name": "Мини-школа МФЦ",
+  "short_name": "МФЦ",
+  "description": "Справочник услуг МФЦ для жителей — пошаговые инструкции и ответы на вопросы",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0D2E6E",
+  "theme_color": "#0D2E6E",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["government", "utilities"],
+  "screenshots": []
+}
