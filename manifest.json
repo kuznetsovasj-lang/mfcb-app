@@ -1,22 +1,23 @@
 {
   "name": "Мини-школа МФЦ",
   "short_name": "МФЦ",
-  "description": "Справочник услуг МФЦ для жителей — пошаговые инструкции и ответы на вопросы",
-  "start_url": "./index.html",
+  "description": "Справочник услуг МФЦ для жителей. Просто, понятно, пошагово.",
+  "start_url": "/mfcb-app/",
+  "scope": "/mfcb-app/",
   "display": "standalone",
-  "orientation": "portrait",
-  "background_color": "#0D2E6E",
-  "theme_color": "#0D2E6E",
+  "orientation": "any",
+  "background_color": "#1a3a6b",
+  "theme_color": "#1a3a6b",
   "lang": "ru",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "icons/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "icon-512.png",
+      "src": "icons/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
